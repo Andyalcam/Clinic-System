@@ -1,0 +1,45 @@
+1.1 es un consultorio de medicina general, estetica y metabolica tambien maneja interconsultas con otros medicos especialistas de ginecología y trauma/ortopedia
+1.2 mi hermana (la doctora principal), dos medicos especialistas (gineco y trauma) y yo, su "asistente" o la de sistemas jeje
+1.3 ambos, con cita, sin cita y de urgencia, puede ser directo al consultotio o a domicilio, los tipos de consulta son presencial o virtual (solo cuando es de seguimiento o con especialista)
+1.4 de 1 a 4
+2.1 por mensaje y/o llamada de whats, insta o telefonia directa, con ayuda del calendario de google para llevar la agenda
+2.2 actualmente usa un software externo llamado HuliPractice que es el unico que cumple con todas las normas para el resguardo y manejo de expedientes medicos (incluida la encriptacion con AES-256) y la idea es que este sistema que estoy creando cumpla igual con todo esto
+2.3 digital
+2.4 efectivo y transferencia
+2.5 ninguno
+3.1 me gustaria que los pacientes solo puedan recibir recordatorios de cuando tengan una consulta pronta o algo parecido, ellos no deberían tener acceso al sistema
+3.2 agenda diaria, pacientes, expedientes, manejo y solicitudes postconsulta, tipos de consulta, cuanto se cobró por cada consulta, cuanto invirtió en insumos para el consultorio y/o sueldos, comisiones, estadisticas, fecha, numero de telefono y dx de la ultima consulta del paciente (como una vista rapida)
+3.3 si, el rol de medico, la de admision, la enfermera, la de recepcion y obvio la de sistemas
+4.1
+la consulta empieza con una cita o agenda:
+1. Nombre completo
+2. Motivo de consulta
+3. Edad
+4. Fecha y hora para cita
+5. numero telefonico
+Cada consulta tiene un expediente medico asociado:
+1. Paciente (Nombre completo, fecha de nacimiento, edad, sexo, lugar de nacimiento, domicilio, estado civil, raza, ocupación, tipo de sangre, numero telefonico) a lo que se le llama ficha de identificación
+2. Antecedentes heredofamiliares, personales patologicos, personales no patologicos, gineco-obstetricos (femenino), androgenicos (masculino)
+3. padecimiento actual o motivo de consulta
+4. interrogatorio por aparatos y sistemas
+5. signos vitales
+6. si tiene laboratorios o estudios previos
+7. exploracion fisica
+8. diagnostico
+9. estudios a solicitar
+10. plan y tratamiento
+11. fecha y hora de consulta subsecuente
+4.2 si, fotos, estudios, pdf
+4.3 si, ya sea con consulta de seguimiento o interconsulta con especialista
+5.1 si
+5.2 solo el registro
+5.3 no, cada tipo de consulta tiene su precio fijo, si puede tener servicios agregados con costo extra y cada año se hacen ajustes a los precios segun la inflacion
+6. pagina web, dashboard y app movil para la doctora es mas importante la pagina web
+7.1 es altamente sensible ya que se manejan datos con los que se identifican unicamente a los pacientes (como tipo de sangre, antecedentes, etc)
+7.2 con correo y/o numero telefonico 
+8. algo escalable, que funcione ahorita pero que mas adelante se pueda usar no solo para un consultorio, si no para una clinica con varios consultorios y obvio mucho mas personal
+9. se lo basico gracias a mi carrera, pero no me cuesta trabajo profundizar ni leer documentacion, quiero dedicarle unas 5 horas diarias
+
+
+
+password data base: 3iwJemDnj9YP38ed
